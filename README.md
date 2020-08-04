@@ -32,8 +32,11 @@ Essas são as tecnologias que foram utilizadas até o momento.
 
 ## :computer: Web
 
-<div style="display: flex; align-items: 'center'; justify-content: space-evenly">
+<div width="" style="display: flex; align-items: 'center'; justify-content: space-evenly">
   <img src="./.github/web-landing.png" width="400px">
   <img src="./.github/web-list.png"  width="400px">
 </div>
 
+<br/>
+
+> OBS: A interface Web ainda não foi finalizado.
