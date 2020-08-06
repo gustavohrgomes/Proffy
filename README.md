@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="./.github/logo.png" alt="Proffy">
+  <img src="https://github.com/gustavohrgomes/Proffy/blob/master/.github/logo.png" alt="Proffy">
 
   Sua plataforma de estudos online.
 </h3>
@@ -26,15 +26,29 @@ Essa aplicação foi desenvolvida durante o evento **Next Level Week**, oferecid
 
 Essas são as tecnologias que foram utilizadas até o momento.
 
-- [React](https://reactjs.org/)
-- [Typescript](https://www.typescriptlang.org/)
-- [Yarn](https://classic.yarnpkg.com/)
+### Ambiente de desenvolvimento
+
+  - [VSCode](https://code.visualstudio.com/)
+  - [Yarn](https://classic.yarnpkg.com/)
+
+### Front-End
+
+  - [React](https://reactjs.org/)
+  - [Typescript](https://www.typescriptlang.org/)
+
+### Back-End
+
+  - [NodeJS](https://nodejs.org/en/)
+  - [Express](https://expressjs.com/pt-br/)
+  - [Typescript](https://classic.yarnpkg.com/)
+  - [KnexJS](http://knexjs.org/)
+  - [SQLite](https://www.sqlite.org/index.html)
 
 ## :computer: Web
 
 <div width="" style="display: flex; align-items: 'center'; justify-content: space-evenly">
-  <img src="./.github/web-landing.png" width="400px">
-  <img src="./.github/web-list.png"  width="400px">
+  <img src="https://github.com/gustavohrgomes/Proffy/blob/master/.github/web-landing.png" width="400px">
+  <img src="https://github.com/gustavohrgomes/Proffy/blob/master/.github/web-list.png"  width="400px">
 </div>
 
 <br/>
