@@ -8,9 +8,6 @@ export async function up(knex: Knex) {
     table.integer('from').notNullable();
     table.integer('to').notNullable();
 
-    table.string('subject').notNullable();
-    table.string('cost').notNullable();
-
     table.integer('class_id')
       .notNullable()
       .references('id')
@@ -21,5 +18,5 @@ export async function up(knex: Knex) {
 }
 
 export async function down(knex: Knex) {
-  return knex.schema.dropTable('classe_schedule')
+  return knex.schema.dropTable('class_schedule')
  }
