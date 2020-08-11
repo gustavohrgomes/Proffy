@@ -14,7 +14,8 @@
 
 - Sobre
 - Tecnologias Utilizadas
-- Web
+- Web Screenshots
+- Mobile Screenshots
 
 ## :bookmark: Sobre
 
@@ -34,7 +35,9 @@ Essas são as tecnologias que foram utilizadas até o momento.
 ### Front-End
 
   - [React](https://reactjs.org/)
+  - [React-Native](https://reactnative.dev/)
   - [Typescript](https://www.typescriptlang.org/)
+  - [Axios](https://github.com/axios/axios)
 
 ### Back-End
 
@@ -44,7 +47,7 @@ Essas são as tecnologias que foram utilizadas até o momento.
   - [KnexJS](http://knexjs.org/)
   - [SQLite](https://www.sqlite.org/index.html)
 
-## :computer: Web
+## :computer: Web Screenshots
 
 <div width="" style="display: flex; align-items: 'center'; justify-content: space-evenly">
   <img src="https://github.com/gustavohrgomes/Proffy/blob/master/.github/web-landing.png" width="400px">
@@ -53,4 +56,14 @@ Essas são as tecnologias que foram utilizadas até o momento.
 
 <br/>
 
-> OBS: A interface Web ainda não foi finalizado.
+## :iphone: Mobile Screenshots
+
+<div width="" style="display: flex; align-items: 'center'; justify-content: space-evenly">
+  <img src="./.github/Home.png" width="200">
+  <img src="./.github/study.png" width="200px">
+  <img src="./.github/favorites.png"  width="200">
+</div>
+
+<br/>
+
+Devido a alguns problemas com o git, tive que colocar o código fonte do app mobile neste repositório [Proffy-Mobile](https://github.com/gustavohrgomes/Proffy-Mobile). Futuramente irei migrando o mesmo para este repositório.
